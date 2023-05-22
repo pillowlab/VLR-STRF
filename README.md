@@ -74,7 +74,7 @@ kMAP = mutHat*muxHat';
 Further examples on how to use the code are provided in the demos folder.
 
 ## References:
-[1] L Duncker, JW Pillow. Scalable variational inference for low-rank spatio-temporal receptive fields. In prep.
+[1] L Duncker, JW Pillow. Scalable variational inference for low-rank spatio-temporal receptive fields. Neural Computation. 2023.
 
 [2] M Sahani, and J F Linden. Evidence optimization techniques for estimating stimulus-response functions. Advances in neural information processing systems. 2003.
 
