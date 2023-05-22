@@ -2,11 +2,15 @@
 
 This repository contains a Matlab toolbox for inferring approximate posterior estimates of the temporal and spatial components of a spatio-temporal receptive field (STRF) with low-rank structure. To cite this code, please refer to our paper
 ```
-@ARTICLE{duncker+pillow:2022,
-  author = {Duncker, Lea and Pillow, Jonathan W.},
-  title =  {Scalable variational inference for low-rank spatio-temporal receptive fields},
-  journal = {},
-  year    = {2022},
+@article{duncker2023scalable,
+  title={Scalable Variational Inference for Low-Rank Spatiotemporal Receptive Fields},
+  author={Duncker, Lea and Ruda, Kiersten M and Field, Greg D and Pillow, Jonathan W},
+  journal={Neural Computation},
+  volume={35},
+  number={6},
+  pages={995--1027},
+  year={2023},
+  publisher={MIT Press}
 }
 ```
 
